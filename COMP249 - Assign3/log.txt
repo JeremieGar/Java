@@ -1,0 +1,4 @@
+File "C:\Users\jerem\IdeaProjects\a3_Jeremie-Garzon_40062316\src\Car Rental Record no Plate.csv" is invalid.
+Missing field: 8 detected, 1 missing
+ -- ﻿Date -- Driver's Name -- Driver's Licence number -- Car Make -- *** -- Meter at the start of trip -- Meter at the end of trip -- Mileage made -- 
+
